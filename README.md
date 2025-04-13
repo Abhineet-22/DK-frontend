@@ -1,8 +1,4 @@
 # Next.js Frontend for File Share with End-to-End Encryption
-
-[![Watch the video](https://img.youtube.com/vi/t5w2dauFmhM/maxresdefault.jpg)](https://youtu.be/t5w2dauFmhM)
-
-
 This is the frontend for the file sharing project, built using Next.js, with authentication handled by Auth.js and the UI components provided by ShadCN.
 
 ## Table of Contents
@@ -44,8 +40,8 @@ To get a local copy of this project up and running, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/AarambhDevHub/file-share-frontend.git
-   cd file-share-frontend
+   git clone https://github.com/Abhineet-22/DK-frontend.git
+   cd frontend_backup
    ```
 
 2. Create a .env file in the root of the project with the following variables:
@@ -79,9 +75,5 @@ In the project directory, you can run:
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for more details.
-
-## Donations
-
-If you find this project useful and would like to support its continued development, you can make a donation via [Buy Me a Coffee](https://buymeacoffee.com/aarambhdevhub).
 
 Thank you for your support!
